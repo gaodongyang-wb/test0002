@@ -15,5 +15,12 @@ public int getId() {
 public void setId(int id) {
 	this.id = id;
 }
+   public static void main(String[] args) {
+	   System.out.println("sfsdfdsfsdf");
+	   System.out.println("sfsdfdsfsdf");
+	   System.out.println("sfsdfdsfsdf");
+	   System.out.println("sfsdfdsfsdf");
+	
+}
 
 }
